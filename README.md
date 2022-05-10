@@ -1,4 +1,4 @@
-- 👋 Hi, ny name is Deysha Rivera
+- 👋 Hi, ny name is Deysha (aka Rathachu)
 - 👀 I’m interested in software engineering and cyber security.
 - 🌱 I just finished a B.S. in Software Development and Cyber Security at UMGC.
 - 💞️ These are some of the projects I worked on in school and hopefully there are more to come.
